@@ -3,7 +3,7 @@ It's a very simple script to sort FISH probes form [Oligopaint database](https:/
 
 # Usage
 ## Windows users:
-1. Download the zip file from the release. Then unzip it, execute the exe file.
+1. Download the zip file from the [Release](https://github.com/Masterchiefm/Oligopaints_finder/releases/latest). Then unzip it, execute the exe file.
 2. The screen reads: " input data set path: "  . You can type the file path or just drag the data set, for example, the hg19_chr1s.bed, to the terminal.
 3. Then input the start site of the gene and the terminal site.
 4. input output file path and name. Then the results will be there.
